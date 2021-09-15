@@ -1,0 +1,9 @@
+/* Card Image */
+.card-image {
+  min-width: 200px;
+  min-height: 200px;
+}
+
+.card-image-exist {
+  display: none;
+}
